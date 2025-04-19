@@ -10,3 +10,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+#### Todo:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
