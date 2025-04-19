@@ -6,3 +6,7 @@
 ###### Header 6
 
 ![IImage of Umbrellatocat](https://octodex.github.com/images/puddle_jumper_octodex.jpg)
+
+``` javascript
+var myVar = "Hello, world!";
+```
